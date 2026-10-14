@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "hits.glow.mix",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "FeatureMix",
+    "FrostMix",
+    "GuiMix",
+    "LevelMix",
+    "PopMix",
+    "ResolverMix",
+    "StackMix"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
