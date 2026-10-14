@@ -1,3 +1,5 @@
+<p align="center"><img src="res/assets/totemglow/icon.png" width="128"></p>
+
 # Totem Glow
 
 makes the eyes of your totem glow with real shaders. change colors and effects in the settings menu (mod menu) or press K.
