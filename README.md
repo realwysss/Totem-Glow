@@ -6,7 +6,7 @@ makes the eyes of your totem glow with real shaders. change colors and effects i
 
 client side fabric mod.
 
-authors: HitsOnly, Wayyys. license: MIT
+authors: HitsOnly, Wayyys. all rights reserved. made by wysss.
 
 ## downloads
 

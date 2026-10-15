@@ -5,7 +5,7 @@
   "name": "Totem Glow",
   "description": "makes ur totem eyes glow w real shaders, change colors n effects in the menu or just hit K",
   "authors": ["HitsOnly", "Wayyys"],
-  "license": "MIT",
+  "license": "All-Rights-Reserved",
   "icon": "assets/totemglow/icon.png",
   "environment": "client",
   "entrypoints": {
